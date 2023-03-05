@@ -1,5 +1,5 @@
 # Customer-Attrition-Management
-Manage customer churn at a wireless telecom company.
+Predict customer churn at a wireless telecom company and provide incentives to would-be-churners.
 
 ## Concordance.R
 Concordance code
